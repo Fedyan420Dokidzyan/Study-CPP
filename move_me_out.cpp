@@ -2,6 +2,6 @@
 
 #include <iostream>
 
-void example_function() {
+void todo_move_me_out() {
 	std::cout << "Hello from example function!" << std::endl;
 }
